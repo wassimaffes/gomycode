@@ -46,7 +46,7 @@ function select()
     default:
 }} 
 
-        function select()
+        function select1()
         { switch (bb.value) {
             case ("arial"):
                 document.getElementById("para").style.fontFamily='a'
